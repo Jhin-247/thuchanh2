@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TH2</string>
+
+    <string-array name="album">
+        <item>Cho 1 tình yêu</item>
+        <item>Nỗi yêu bé dại</item>
+        <item>Cây lặng - gió ngừng</item>
+        <item>Có dừng được không</item>
+        <item>Đây là mơ</item>
+        <item>Ở giữa cuộc đời</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Country</item>
+        <item>Rock</item>
+        <item>Blues</item>
+        <item>Pop</item>
+    </string-array>
+
+    <string-array name="author">
+        <item>Nguyễn Mạnh Sơn</item>
+        <item>Trần Đình Quế</item>
+        <item>Nguyễn Duy Phương</item>
+        <item>Phạm Thế Quế</item>
+        <item>Nguyễn Quang Hoan</item>
+        <item>Phan Thị Hà</item>
+    </string-array>
+
+    <string-array name="publisher">
+        <item>Khoa học và xã hội</item>
+        <item>Bưu điện</item>
+        <item>Khoa học và kỹ thuật</item>
+        <item>Thống kê</item>
+    </string-array>
+
+</resources>
